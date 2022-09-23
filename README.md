@@ -3,12 +3,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Drum-Kit-game?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Drum-Kit-game?style=for-the-badge)
 
+![anafts github io_Drum-Kit-game_](https://user-images.githubusercontent.com/106173948/192034754-363d142b-ca42-4e81-b444-2d777abe66a6.png)
+
 
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
 ## 💻 Descrição do projeto 
 
-O Drum Kit game é um jogo que usa um kit de bateria, e ao clicar no instrumento você descobre o som que ele faz. 
+O Drum Kit game é um jogo que usa um kit de bateria que ao clicar no instrumento você descobre o som que ele faz. 
  
  <br>
 
